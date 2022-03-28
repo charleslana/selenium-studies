@@ -13,9 +13,6 @@ m
 =src/test/java/tests/handle/HandleTextBoxRadionButtonTest.java,5/f/5f68c6de51049cfb42352d44b4dd77745f76123c
 n
 >src/test/java/tests/handle/HandleCheckBoxRadioButtonsTest.java,d/0/d0f0c30e950cfad9d0385856b041426fb549f258
-:
-
-.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 [
 +src/test/java/tests/windows/WindowTest.java,8/b/8ba75b11ce0bf8e3c6d8bdb67fba6c85f64b03d6
 b
