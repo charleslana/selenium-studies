@@ -13,3 +13,4 @@
 - Tables
 - Wait
 - Windows
+- Logs
