@@ -9,8 +9,8 @@
 - Get
 - Handle
 - Locators
+- Logs
 - Navigation
 - Tables
 - Wait
 - Windows
-- Logs
